@@ -14,7 +14,7 @@ public class Fibonacci {
         }
         System.out.println(fibonacciInterado(retorno));
         System.out.println(fibonacciRecursivo(retorno));
-
+        scanner.close();
     }
 
     /**
