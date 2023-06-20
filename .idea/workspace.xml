@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0f615cde-1d4b-4d7d-9d23-36c3eada8cc5" name="Changes" comment="Projeto Fibonacci adicionado">
+    <list default="true" id="0f615cde-1d4b-4d7d-9d23-36c3eada8cc5" name="Changes" comment="Fechando scanner">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Fibonacci.java" afterDir="false" />
     </list>
